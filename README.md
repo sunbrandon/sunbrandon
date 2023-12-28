@@ -1,7 +1,7 @@
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?color=00E0FF&lines=%F0%9F%8F%84+Hi%2C+I%E2%80%99m+Brandon!+:%29)](https://git.io/typing-svg)
 
 <a target="_blank" href="https://www.linkedin.com/in/sunbrandon"><img src="https://img.shields.io/badge/-LinkedIn-0077B5?style=for-the-badge&logo=Linkedin&logoColor=white"></img></a>
-<a target="_blank" href="mailto:brandonthesun@gmail.com"><img src="https://img.shields.io/badge/-Gmail-D14836?style=for-the-badge&logo=Gmail&logoColor=white"></img></a>
+<a target="_blank" href="mailto:sunabrandon@gmail.com"><img src="https://img.shields.io/badge/-Gmail-D14836?style=for-the-badge&logo=Gmail&logoColor=white"></img></a>
 
 ### 🧰 Languages and Tools
 <!-- [![Languages](https://skillicons.dev/icons?i=cpp,py,vscode)](https://skillicons.dev) -->
