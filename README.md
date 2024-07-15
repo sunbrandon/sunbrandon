@@ -1,8 +1,8 @@
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?color=00E0FF&lines=%F0%9F%8F%84+歡迎光臨%2C+I%E2%80%99m+Brandon!+:%29)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?color=00E0FF&lines=%F0%9F%8F%84+Hi%2C+I%E2%80%99m+Brandon!+:%29)](https://git.io/typing-svg)
 
 <a target="_blank" href="https://www.linkedin.com/in/sunbrandon"><img src="https://img.shields.io/badge/-LinkedIn-0077B5?style=for-the-badge&logo=Linkedin&logoColor=white"></img></a>
 <a href="https://sunbrandon.vercel.app/" target="_blank"><img src="https://img.shields.io/badge/website-000000?style=for-the-badge&logo=About.me&logoColor=white"></a>
-<br>![](https://komarev.com/ghpvc/?username=sunbrandon&color=green)</br>
+<br>![](https://komarev.com/ghpvc/?username=sunbrandon&color=blue)</br>
 
 ### 🧰 Languages and Tools
 <!-- [![Languages](https://skillicons.dev/icons?i=cpp,py,vscode)](https://skillicons.dev) -->
